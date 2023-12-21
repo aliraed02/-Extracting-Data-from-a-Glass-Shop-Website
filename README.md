@@ -1,5 +1,5 @@
 # Glass Shop Web Scraping
-## Link Website ["https://www.glassesshop.com/bestsellers"]
+## Link Website ["https://www.glassesshop.com"]
 ## Overview
 
 This project involves the extraction of data from a glass shop website through web scraping techniques. The primary objective is to collect valuable information about the products, prices, and other relevant details offered by the glass shop.
